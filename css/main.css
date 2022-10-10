@@ -33,7 +33,7 @@ h2 {
 	font-size: 1.125em;
 }
 h3 {
-	font-size: 1.75em;
+	font-size: .875em;
 }
 
 p {
@@ -46,11 +46,14 @@ p {
 header {
 	border-bottom: 3px solid #77a466;
 	margin: 0 auto;
+	width: 100%;
+	text-align: center;
 }
 
 header h1 {
 	margin: 0;
 	padding: 38px 0;
+	width: 100%;
 }
 header h1 span {
 	color: #77a466;
@@ -58,6 +61,7 @@ header h1 span {
 
 header nav {
 	padding: 46px 0;
+	width: 100%;
 }
 header nav ul {
 	margin: 0;
@@ -149,6 +153,7 @@ footer {
 	border-top: 3px solid #eee;
 	margin: 0 auto;
 	text-align: center;
+	width: 100%;
 }
 footer span {
 	font-family: 'Galada', cursive;
